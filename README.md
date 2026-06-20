@@ -101,8 +101,3 @@ python credit_scoring.py
 
 ---
 
-## Author
-
-Pranjali Gawade
-
-Machine Learning Intern – CodeAlpha
